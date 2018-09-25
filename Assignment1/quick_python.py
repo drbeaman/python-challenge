@@ -1,0 +1,1 @@
+print("HELLO QUICK PYTHON")
