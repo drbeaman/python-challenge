@@ -1,6 +1,0 @@
-Notes from 9/18:
-
-To run a shell file, ./
-In terminal, type history then ! before the index number will run that number.
-
-source activate PythonData
